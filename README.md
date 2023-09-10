@@ -1,4 +1,7 @@
-### Hi there 👋
+## About me
+- I'm studying information technology at UFRN
+- Web Developer Technician at IFRN
+- I love sports, the sea, talking, laughing... and everything that makes me feel alive.
 
 <!--
 **paulo0301/paulo0301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
